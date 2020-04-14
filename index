@@ -4,8 +4,24 @@
 <title>Todo<title>
 </head>
 <body>
-<div>
+<div class="container">
+
+<div class="item1">
 <img src="toDo.png" alt="todo" />
+</div>
+
+<div class="item2">
+<img src="monday.png" alt="todo" />
+</div>
+
+<div class="item3">
+<img src="Tue.png" alt="todo" />
+</div>
+
+<div class="item4">
+<img src="wedn.png" alt="todo" />
+</div>
+
 </div>
 </body>
 </html
